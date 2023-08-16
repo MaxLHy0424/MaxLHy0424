@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaxLHy0424 . I'm a Chinese developer, too! 
+- 👋 Hi, I’m @MaxLHy0424 . I'm a Chinese developer! 
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning C++.
 - 📫 If you want to contact me, please send an  email to MaxLHy974413@outlook.com.
