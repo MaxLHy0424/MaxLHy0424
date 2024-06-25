@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MaxLHy0424 . I'm a student. I'm from China, and live here, too! 
-- 👀 I’m interested in make some little software.
-- 🌱 I’m currently learning C++.
-- 📫 If you want to contact me, please send an email to MaxLHy974413@outlook.com.
+- 👋 Hi, I'm @MaxLHy0424. I'm a student from China, and I also live here!
+- 👀 I'm interested in developing some small softwares.
+- 🌱 I'm learning C++ now.
+- 📫 If you wish to get in touch with me, kindly send an email to MaxLHy974413@outlook.com.
 
 <!---
 MaxLHy0424/MaxLHy0424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
