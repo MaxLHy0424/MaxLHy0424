@@ -1,5 +1,5 @@
-- 👋 Hi, I'm @MaxLHy0424. I'm a student from China, and I also live here!
-- 👀 I'm interested in developing some small softwares.
+- 👋 Hi, I'm @MaxLHy0424. I'm a student from China,和I also live here!
+- 👀 I'm interested in developing some little softwares.
 - 🌱 I'm learning C++ now.
 - 📫 If you wish to get in touch with me, kindly send an email to MaxLHy974413@outlook.com.
 
