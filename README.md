@@ -3,7 +3,7 @@
 <div align="center">
   <div>
     <a href="https://heyuhan.huohuo.ink/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);欢迎来到我的 Github 主页!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);欢迎来到我的 GitHub 主页!&center=true&size=27" />
     </a>
   </div>
   <picture>
