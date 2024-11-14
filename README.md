@@ -32,7 +32,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
+      <br>GitHub
     </td>
     <td align="center">
       <img src="https://archlinux.org/static/logos/archlinux-logo-light-90dpi.d36c53534a2b.png" width="200" height="65" alt="GitHub" />
