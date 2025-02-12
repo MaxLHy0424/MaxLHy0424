@@ -62,6 +62,10 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
+</div>
+
+<div align="center" >
+
 ![View Counter](https://komarev.com/ghpvc/?username=MaxLHy0424&label=PROFILE+VIEWS&style=for-the-badge&color=81a1c1)
 
 </div>
