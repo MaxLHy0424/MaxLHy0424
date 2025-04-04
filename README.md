@@ -19,26 +19,11 @@
 ## 🛠️ 我趁手的工具
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" alt="C++"/>
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-        <br>GitHub
-      </td>
-      <td align="center">
-        <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" width="200" height="65" alt="Arch Linux" />
-        <br>Arch Linux
-      </td>
-   </tr>
-  </table>
+  
+| C++ | Git | GitHub | Arch Linux |
+| :---: | :---: | :---: | :---: |
+| ![C++](https://isocpp.org/assets/images/cpp_logo.png) | ![Git](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png) | ![GitHub](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)| ![Arch Linux](https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png) |
+
 </div>
 
 ## 🧐 关于我
