@@ -46,7 +46,7 @@
 
 <div align="center" >
 
-![MaxLHy0424's Code Commit](https://github-readme-activity-graph.vercel.app/graph?username=MaxLHy0424&theme=xcode&bg_color=FF000000&hide_border=false)
+![MaxLHy0424's Code Commit](https://github-readme-activity-graph.vercel.app/graph?username=MaxLHy0424&theme=xcode)
 ![MaxLHy0424's Stats](https://github-readme-stats.vercel.app/api?username=MaxLHy0424&show_icons=true&count_private=true&hide_border=true&theme=nord&local=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxLHy0424&hide_border=true&layout=donut&theme=nord)
 
