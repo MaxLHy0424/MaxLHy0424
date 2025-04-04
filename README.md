@@ -9,11 +9,10 @@
   <picture>
     <img width="20%" height="20%" src="https://avatars.githubusercontent.com/u/142279449?v=4"/>
   </picture>
-  <div>&nbsp;</div>
   <div>
-    <a href="https://space.bilibili.com/1678066522"><img src="https://img.shields.io/badge/Bilibili- -ff69b4" /></a>&emsp;
-    <a href="https://MaxLHy0424.github.io/"><img src="https://img.shields.io/badge/Blog- -green" /></a>&emsp;
-    <a href="https://www.minebbs.com/members/maxlhy.88192"><img src="https://img.shields.io/badge/MineBBS- -blue" /></a>&emsp;
+    <a href="https://space.bilibili.com/1678066522"><img src="https://img.shields.io/badge/Bilibili- -ff69b4" /></a>
+    <a href="https://MaxLHy0424.github.io/"><img src="https://img.shields.io/badge/Blog- -green" /></a>
+    <a href="https://www.minebbs.com/members/maxlhy.88192"><img src="https://img.shields.io/badge/MineBBS- -blue" /></a>
   </div>
 </div>
 
@@ -27,7 +26,7 @@
         <br>C++
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"   width="65" height="65" alt="Git" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
         <br>Git
       </td>
       <td align="center" width="96">
@@ -35,7 +34,7 @@
         <br>GitHub
       </td>
       <td align="center">
-        <img src="https://archlinux.org/static/logos/archlinux-logo-light-90dpi.d36c53534a2b.png" width="200" height="65"   alt="Arch Linux" />
+        <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" width="200" height="65" alt="Arch Linux" />
         <br>Arch Linux
       </td>
    </tr>
