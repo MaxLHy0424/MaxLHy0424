@@ -10,6 +10,9 @@
     <img width="20%" height="20%" src="https://avatars.githubusercontent.com/u/142279449?v=4"/>
   </picture>
   <div>
+    MaxLHy0424
+  </div>
+  <div>
     <a href="https://space.bilibili.com/1678066522"><img src="https://img.shields.io/badge/Bilibili- -ff69b4" /></a>
     <a href="https://MaxLHy0424.github.io/"><img src="https://img.shields.io/badge/Blog- -green" /></a>
     <a href="https://www.minebbs.com/members/maxlhy.88192"><img src="https://img.shields.io/badge/MineBBS- -blue" /></a>
@@ -30,13 +33,11 @@
 
 <div align="center" >
 
+**自我简介: Oier ~兼古希腊掌管 Modern C++ 的神~**
+
 ![MaxLHy0424's Code Commit](https://github-readme-activity-graph.vercel.app/graph?username=MaxLHy0424&theme=xcode)
 ![MaxLHy0424's Stats](https://github-readme-stats.vercel.app/api?username=MaxLHy0424&show_icons=true&count_private=true&hide_border=true&theme=nord&local=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxLHy0424&hide_border=true&layout=donut&theme=nord)
-
-</div>
-
-<div align="center" >
 
 "一定能找到, 通往与这扭曲的终点所截然不同的, 另一种结局的正确选项. 所在皆是奇迹的起点."
 
@@ -45,10 +46,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
-</div>
-
-<div align="center" >
 
 ![View Counter](https://komarev.com/ghpvc/?username=MaxLHy0424&label=PROFILE+VIEWS&style=for-the-badge&color=81a1c1)
 
