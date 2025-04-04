@@ -10,9 +10,6 @@
     <img width="20%" height="20%" src="https://avatars.githubusercontent.com/u/142279449?v=4"/>
   </picture>
   <div>
-    MaxLHy0424
-  </div>
-  <div>
     <a href="https://space.bilibili.com/1678066522"><img src="https://img.shields.io/badge/Bilibili- -ff69b4" /></a>
     <a href="https://MaxLHy0424.github.io/"><img src="https://img.shields.io/badge/Blog- -green" /></a>
     <a href="https://www.minebbs.com/members/maxlhy.88192"><img src="https://img.shields.io/badge/MineBBS- -blue" /></a>
