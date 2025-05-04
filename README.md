@@ -36,7 +36,9 @@
 ![MaxLHy0424's Stats](https://github-readme-stats.vercel.app/api?username=MaxLHy0424&show_icons=true&count_private=true&hide_border=true&theme=nord&local=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxLHy0424&hide_border=true&layout=donut&theme=nord)
 
-"一定能找到, 通往与这扭曲的终点所截然不同的, 另一种结局的正确选项. 所在皆是奇迹的起点."
+「一定能找到, 通往与这扭曲的终点所截然不同的, 另一种结局的正确选项.」
+
+「在无心的日常中, 发现少许奇迹的故事. 所在皆是奇迹的起点.」
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
