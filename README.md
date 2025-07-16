@@ -1,11 +1,6 @@
 # 🧑‍💻 Let's build from here!
 
 <div align="center">
-  <div>
-    <a href="https://heyuhan.huohuo.ink/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);欢迎来到我的 GitHub 主页!&center=true&size=27" />
-    </a>
-  </div>
   <picture>
     <img width="20%" height="20%" src="https://avatars.githubusercontent.com/u/142279449?v=4"/>
   </picture>
@@ -22,7 +17,7 @@
   
 | C++ | Git | GitHub | Arch Linux |
 | :---: | :---: | :---: | :---: |
-| ![C++](https://isocpp.org/assets/images/cpp_logo.png) | ![Git](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png) | ![GitHub](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)| ![Arch Linux](https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png) |
+| ![C++](https://isocpp.org/assets/images/cpp_logo.png) | ![Git](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png) | ![GitHub](https://github.com/user-attachments/assets/314c8783-2af2-49a9-a1e0-485372dac2d2)| ![Arch Linux](https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png) |
 
 </div>
 
