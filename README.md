@@ -1,9 +1,6 @@
 # 🧑‍💻 Let's build from here!
 
 <div align="center">
-  <picture>
-    <img width="20%" height="20%" src="https://avatars.githubusercontent.com/u/142279449?v=4"/>
-  </picture>
   <div>
     <a href="https://space.bilibili.com/1678066522"><img src="https://img.shields.io/badge/Bilibili- -ff69b4" /></a>
     <a href="https://MaxLHy0424.github.io/"><img src="https://img.shields.io/badge/Blog- -green" /></a>
