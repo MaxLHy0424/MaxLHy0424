@@ -2,9 +2,9 @@
 
 <div align="center">
   <div>
-    <a href="https://space.bilibili.com/1678066522"><img src="https://img.shields.io/badge/Bilibili- -ff69b4" /></a>
-    <a href="https://MaxLHy0424.github.io/"><img src="https://img.shields.io/badge/Blog- -green" /></a>
-    <a href="https://www.minebbs.com/members/maxlhy.88192"><img src="https://img.shields.io/badge/MineBBS- -blue" /></a>
+    <a href="https://space.bilibili.com/1678066522"><img src="https://img.shields.io/badge/Bilibili-MaxLHy0424 -FF69B4" /></a>
+    <a href="https://www.minebbs.com/members/maxlhy.88192"><img src="https://img.shields.io/badge/MineBBS-MaxLHy -0078D4" /></a>
+    <a href="https://MaxLHy0424.github.io/"><img src="https://img.shields.io/badge/Blog-MaxLHy0424's_Blog -Yellow" /></a>
   </div>
 </div>
 
@@ -22,11 +22,10 @@
 
 <div align="center" >
 
-**自我简介: Oier ~兼古希腊掌管 Modern C++ 的神~**
+**一句话介绍: 初中生 Oier ~兼古希腊掌管 Modern C++ 的神~**
 
-![MaxLHy0424's Code Commit](https://github-readme-activity-graph.vercel.app/graph?username=MaxLHy0424&theme=xcode)
-![MaxLHy0424's Stats](https://github-readme-stats.vercel.app/api?username=MaxLHy0424&show_icons=true&count_private=true&hide_border=true&theme=nord&local=cn)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxLHy0424&hide_border=true&layout=donut&theme=nord)
+![MaxLHy0424's Stats](https://github-readme-stats.vercel.app/api?username=MaxLHy0424&count_private=true&show_icons=true&theme=github_dark_dimmed&hide_border=true&local=cn)
+![MaxLHy0424's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxLHy0424&hide_border=true&layout=compact&theme=github_dark_dimmed)
 
 「一定能找到, 通往与这扭曲的终点所截然不同的, 另一种结局的正确选项.」
 
@@ -35,7 +34,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 ![View Counter](https://komarev.com/ghpvc/?username=MaxLHy0424&label=PROFILE+VIEWS&style=for-the-badge&color=81a1c1)
