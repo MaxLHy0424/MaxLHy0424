@@ -37,6 +37,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-![View Counter](https://komarev.com/ghpvc/?username=MaxLHy0424&label=PROFILE+VIEWS&style=for-the-badge&color=81a1c1)
+![View Counter](https://komarev.com/ghpvc/?username=MaxLHy0424&label=PROFILE+VIEWS&style=for-the-badge&color=0078D4)
 
 </div>
