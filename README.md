@@ -22,7 +22,7 @@
 
 <div align="center" >
 
-**一句话介绍：一个初中生 OIer，喜欢日漫、日语歌**
+**我是一个初二学生，成绩优异（年级段前 15），资深二次元，热爱现代 C++**
 
 ![](https://github-readme-stats.vercel.app/api?username=MaxLHy0424&count_private=true&show_icons=true&theme=github_dark_dimmed&hide_border=true&local=cn)
 
