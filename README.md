@@ -2,12 +2,15 @@
 
 <div align="center">
   <div>
-    <a href="https://space.bilibili.com/1678066522"><img src="https://img.shields.io/badge/Bilibili-MaxLHy0424 -FF69B4" /></a>
-    <a href="https://www.minebbs.com/members/maxlhy.88192"><img src="https://img.shields.io/badge/MineBBS-MaxLHy -0078D4" /></a>
+    <a href="https://space.bilibili.com/1678066522"><img src="https://img.shields.io/badge/Bilibili-MaxLHy0424 -0078D4" /></a>
+    <a href="https://moe.one/user-1034.htm"><img src="https://img.shields.io/badge/萌社区-MaxLHy0424 -FF69B4" /></a>
     <a href="https://MaxLHy0424.github.io/"><img src="https://img.shields.io/badge/Blog-MaxLHy0424 -Yellow" /></a>
     <a href="mailto:MaxLHy974413@outlook.com"><img src="https://img.shields.io/badge/Email-MaxLHy974413%40outlook.com -27DDF3" /></a>
   </div>
 </div>
+
+
+
 
 ## 🛠️ 我趁手的工具
 
