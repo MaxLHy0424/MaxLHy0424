@@ -28,11 +28,7 @@
 
 **我是一个初二学生，成绩优异（年级段前 15），资深二次元，热爱现代 C++**
 
-![](https://github-readme-stats.vercel.app/api?username=MaxLHy0424&count_private=true&show_icons=true&theme=github_dark_dimmed&hide_border=true&local=cn)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxLHy0424&hide_border=true&layout=compact&theme=github_dark_dimmed)
-
-「一定能找到，往与这扭曲的终点所截然不同的，另一种结局的正确选项。」
+「一定能找到，与这扭曲的终点所截然不同的，另一种结局的正确选项。」
 
 「在无心的日常中，发现少许奇迹的故事，所在皆是奇迹的起点。」
 
