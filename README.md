@@ -1,42 +1,42 @@
-# 🧑‍💻 Let's build from here!
+# Hello, I'm MaxLHy0424!
 
 <div align="center">
-  <div>
-    <a href="https://space.bilibili.com/1678066522"><img src="https://img.shields.io/badge/Bilibili-MaxLHy0424 -0078D4" /></a>
-    <a href="https://x.com/MaxLHy0424"><img src="https://img.shields.io/badge/X%20(Twitter)-MaxLHy0424 -000000" /></a>
-    <a href="https://moe.one/user-1034.htm"><img src="https://img.shields.io/badge/萌社区-MaxLHy0424 -FF69B4" /></a>
-    <a href="https://maxlhy0424.is-a.dev/"><img src="https://img.shields.io/badge/Blog-MaxLHy -Yellow" /></a>
-    <a href="mailto:MaxLHy974413@outlook.com"><img src="https://img.shields.io/badge/Email-MaxLHy974413%40outlook.com -27DDF3" /></a>
-  </div>
+  <p>
+    <img src="https://img.shields.io/badge/OS-Arch%20Linux%20%26%20Windows%2011-1793D1?style=flat-square" />
+    <img src="https://img.shields.io/badge/Focus-C%2b%2b%20Programming-red?style=flat-square" />
+    <img src="https://img.shields.io/badge/Game-Project%20Moon-000000?style=flat-square&logo=hypergryph&logoColor=white" />
+ </p>
+ <p>
+    <a href="https://space.bilibili.com/1678066522"><img src="https://img.shields.io/badge/Bilibili-MaxLHy0424-0078D4?style=flat-square" /></a>
+    <a href="https://x.com/MaxLHy0424"><img src="https://img.shields.io/badge/X%20(Twitter)-MaxLHy0424-000000?style=flat-square" /></a>
+    <a href="https://moe.one/user-1034.htm"><img src="https://img.shields.io/badge/Moe%20Forum-MaxLHy0424-FF69B4?style=flat-square" /></a>
+    <a href="https://www.kungal.com/user/82396/info"><img src="https://img.shields.io/badge/KunGal%20Forum-MaxLHy0424-67ABF9?style=flat-square" /></a>
+    <a href="https://maxlhy0424.is-a.dev"><img src="https://img.shields.io/badge/Blog-MaxLHy-Yellow?style=flat-square" /></a>
+    <a href="mailto:MaxLHy974413@outlook.com"><img src="https://img.shields.io/badge/Email-MaxLHy974413%40outlook.com-3433B4?style=flat-square" /></a>
+  </p>
 </div>
 
 
+## 关于我
 
+- **身份**: 初二竞赛生
+- **别名**：`MaxLHy`、`Max`
+- **技术栈**：Modern C++，基础 Web 开发
+- **理念**：高度支持自由软件事业，支持 GNU
 
-## 🛠️ 我趁手的工具
+# 兴趣爱好
 
-<div align="center">
-  
-| C++ | Git | GitHub | Arch Linux |
-| :---: | :---: | :---: | :---: |
-| ![C++](https://isocpp.org/assets/images/cpp_logo.png) | ![Git](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png) | ![GitHub](https://github.com/user-attachments/assets/314c8783-2af2-49a9-a1e0-485372dac2d2)| ![Arch Linux](https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png) |
+- **音乐**：Vocaloid 爱好者，喜欢 J-POP
+- **游戏**：曾 Blue Archive 玩家，现为*月计人*，还玩 *osu!*
+- **哲学**：信仰马克思列宁主义
 
-</div>
-
-## 🧐 关于我
+---
 
 <div align="center" >
-
-**我是一个初二学生，成绩优异（年级段前 15），资深二次元，热爱现代 C++**
 
 「一定能找到，与这扭曲的终点所截然不同的，另一种结局的正确选项。」
 
 「在无心的日常中，发现少许奇迹的故事，所在皆是奇迹的起点。」
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 ![View Counter](https://komarev.com/ghpvc/?username=MaxLHy0424&label=PROFILE+VIEWS&style=for-the-badge&color=0078D4)
 
