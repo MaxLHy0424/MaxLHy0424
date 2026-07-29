@@ -9,7 +9,6 @@
  <p>
     <a href="https://space.bilibili.com/1678066522"><img src="https://img.shields.io/badge/Bilibili-MaxLHy0424-0078D4?style=flat-square" /></a>
     <a href="https://x.com/MaxLHy0424"><img src="https://img.shields.io/badge/X%20(Twitter)-MaxLHy0424-000000?style=flat-square" /></a>
-    <a href="https://www.kungal.com/user/82396/info"><img src="https://img.shields.io/badge/KunGal%20Forum-MaxLHy0424-67ABF9?style=flat-square" /></a>
     <a href="https://maxlhy0424.is-a.dev"><img src="https://img.shields.io/badge/Blog-MaxLHy-Yellow?style=flat-square" /></a>
     <a href="mailto:MaxLHy974413@outlook.com"><img src="https://img.shields.io/badge/Email-MaxLHy974413%40outlook.com-3433B4?style=flat-square" /></a>
   </p>
