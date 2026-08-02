@@ -4,13 +4,15 @@
   <p>
     <img src="https://img.shields.io/badge/OS-Arch%20Linux%20%26%20Windows%2011-1793D1?style=flat-square" />
     <img src="https://img.shields.io/badge/Focus-C%2b%2b%20Programming-red?style=flat-square" />
-    <img src="https://img.shields.io/badge/Game-Project%20Moon-000000?style=flat-square&logo=hypergryph&logoColor=white" />
  </p>
  <p>
-    <a href="https://space.bilibili.com/1678066522"><img src="https://img.shields.io/badge/Bilibili-MaxLHy0424-0078D4?style=flat-square" /></a>
-    <a href="https://x.com/MaxLHy0424"><img src="https://img.shields.io/badge/X%20(Twitter)-MaxLHy0424-000000?style=flat-square" /></a>
-    <a href="https://maxlhy0424.is-a.dev"><img src="https://img.shields.io/badge/Blog-MaxLHy-Yellow?style=flat-square" /></a>
+    <a href="https://maxlhy0424.is-a.dev"><img src="https://img.shields.io/badge/Blog-MaxLHy's%20Blog-Yellow?style=flat-square" /></a>
     <a href="mailto:MaxLHy974413@outlook.com"><img src="https://img.shields.io/badge/Email-MaxLHy974413%40outlook.com-3433B4?style=flat-square" /></a>
+  </p>
+  <p>
+    <a href="https://x.com/MaxLHy0424"><img src="https://img.shields.io/badge/X%20(Twitter)-MaxLHy0424-000000?style=flat-square" /></a>
+    <a href="https://space.bilibili.com/1678066522"><img src="https://img.shields.io/badge/Bilibili-MaxLHy0424-0078D4?style=flat-square" /></a>
+    <a href="https://www.kungal.com/user/82396"><img src="https://img.shields.io/badge/KunGal%20Forum-MaxLHy0424-D848AE?style=flat-square" /></a>
   </p>
 </div>
 
@@ -19,13 +21,14 @@
 
 - **身份**: 初三竞赛生
 - **技术栈**：Modern C++，基础 Web 开发
-- **理念**：高度支持自由软件事业
+- **理念**：让自由软件事业再次伟大
+- **意识形态**：无政府共产主义 / 国际主义
 
 ## 兴趣爱好
 
 - **音乐**：Vocaloid & J-POP 爱好者
-- **游戏**：Blue Archive / Linbus Company / osu!
-- **意识形态**：无政府共产主义 / 国际主义
+- **游戏**：Minecraft / Touhou Project / Blue Archive / osu!
+- **最喜欢的轻小说**: 无职转生～到了异世界就拿出真本事～
 
 ---
 
