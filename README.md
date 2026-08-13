@@ -27,8 +27,8 @@
 ## 兴趣爱好
 
 - **音乐**：Vocaloid & J-POP 爱好者
-- **游戏**：Minecraft / Touhou Project / Blue Archive / osu!
-- **最喜欢的轻小说**: 无职转生～到了异世界就拿出真本事～
+- **喜欢游戏**：Minecraft / Manosaba / Blue Archive / osu!
+- **喜欢的轻小说**: 《无职转生～到了异世界就拿出真本事～》
 
 ---
 
