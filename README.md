@@ -12,7 +12,6 @@
   <p>
     <a href="https://x.com/MaxLHy0424"><img src="https://img.shields.io/badge/X%20(Twitter)-MaxLHy0424-000000?style=flat-square" /></a>
     <a href="https://space.bilibili.com/1678066522"><img src="https://img.shields.io/badge/Bilibili-MaxLHy0424-0078D4?style=flat-square" /></a>
-    <a href="https://www.kungal.com/user/82396"><img src="https://img.shields.io/badge/KunGal%20Forum-MaxLHy0424-D848AE?style=flat-square" /></a>
   </p>
 </div>
 
