@@ -24,8 +24,7 @@
 ## 兴趣爱好
 
 - **喜欢的音乐**：英语（泛）Vocaloid、日语（泛）Vocaloid、J-POP
-- **喜欢的游戏**：Minecraft、Magical Girl Witch Trials、Blue Archive、osu!
-- **喜欢的轻小说**：《无职转生～到了异世界就拿出真本事～》
+- **喜欢的游戏**：Minecraft、《魔法少女的魔女审判》、《蔚蓝档案》、osu!
 
 ---
 
