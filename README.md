@@ -19,12 +19,12 @@
 - **身份**: 初三竞赛生
 - **技术栈**：Modern C++，基础 Web 开发
 - **理念**：让自由软件事业再次伟大
-- **意识形态**：无政府共产主义 / 国际主义
+- **意识形态**：无政府共产主义、国际主义、实用主义
 
 ## 兴趣爱好
 
-- **喜欢的音乐**：英语（泛）Vocaloid / 日语（泛）Vocaloid / J-POP
-- **喜欢的游戏**：Minecraft / Magical Girl Witch Trials / Blue Archive / osu!
+- **喜欢的音乐**：英语（泛）Vocaloid、日语（泛）Vocaloid、J-POP
+- **喜欢的游戏**：Minecraft、Magical Girl Witch Trials、Blue Archive、osu!
 - **喜欢的轻小说**：《无职转生～到了异世界就拿出真本事～》
 
 ---
